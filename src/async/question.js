@@ -35,7 +35,7 @@ const start = use([
 
 start(1)
 
-// ❯❯❯ node --harmony-async-await index.js
+// ❯❯❯ node --harmony-async-await async/question.js
 // before: 1
 // waited: 1003
 // before: 2
